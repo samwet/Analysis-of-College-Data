@@ -1,2 +1,1 @@
-# Analysis-of-College-Data
-Using analytics to obtain insights
+This project is about data mining.
